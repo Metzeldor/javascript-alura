@@ -25,7 +25,7 @@ Puedes acceder a cada una de las aulas para obtener más información sobre los 
 Durante el curso, utilicé varias fuentes y documentos de referencia. Algunos de los recursos más relevantes son:
 
 - [Mozilla Developer Network (MDN)](https://developer.mozilla.org/es/)
+- [Entendiendo los lazos o ciclos en Javascript](https://ljcl79.medium.com/entendiendo-los-lazos-o-ciclos-en-javascript-25f3a9dd279d)
 
 Te recomiendo consultar estos recursos para obtener información adicional y detallada sobre el lenguaje JavaScript.
 
-¡Espero que este repositorio te sea útil para aprender los primeros pasos en JavaScript! Si tienes alguna pregunta o comentario, no dudes en contactarme. ¡Feliz aprendizaje!
