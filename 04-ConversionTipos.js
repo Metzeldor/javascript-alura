@@ -1,7 +1,7 @@
 //Tipos de datos
 // Alfanumerico
-//let nombrePasajero = "Pedro Silva";
-//nombrePasajero = "Ramón Silva";
+//let nombrePasajero = "Andres Tejada";
+//nombrePasajero = "Daniel Lozano";
 
 //Numérico
 let valorBoleto = 1000;
